@@ -1,4 +1,4 @@
-# E-commerce-Sales-analysis-Pipeline
+# E-commerce-Sales-Analysis-Pipeline
 
 ## 📝 Project Overview
 This project is an end-to-end data analysis solution designed to identify the root causes of Negative Profit Margins in an e-commerce business. I built a complete ETL (Extract, Transform, Load) pipeline that integrates SQL, Python, and Power BI to turn raw transactional data into actionable business insights.
