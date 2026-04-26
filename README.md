@@ -46,7 +46,8 @@ KPI Cards: Tracking real-time Revenue, Total Profit, and Sales volume.
 
 Profitability Analysis: Highlighting sub-categories that require immediate pricing reviews.
 
-<img width="1042" height="851" alt="Screenshot 2026-04-24 160841" src="https://github.com/user-attachments/assets/56f99ff1-9948-4339-af31-4742b39a2c47" />
+<img width="1023" height="838" alt="Screenshot 2026-04-26 112706" src="https://github.com/user-attachments/assets/50067c16-bd13-4082-bc1f-1502c3bff3e5" />
+
 
 
 [**Download Power BI Dashboard (.pbix)**](./E-commerce-Sales-Analysis-Pipeline.pbix)
